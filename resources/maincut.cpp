@@ -1,11 +1,39 @@
-﻿#include <windows.h>
-#include "Lab_1.cpp"
-#include "Lab_2.cpp"
-#include "Lab_3.cpp"
-#include "Lab_4.cpp"
-#include "Lab_5.cpp"
-#include "Lab_6.cpp"
-#include "Lab_7.cpp"
+#include <windows.h>
+#include "Class_1.h"
+#include "Class_2.h"
+#include "Class_3.h"
+#include "Class_3.1.h"
+#include "Class_4.h"
+#include "Class_4.1.h"
+#include "Class_5.h"
+#include "Class_6.h"
+#include "Class_6.1.h"
+#include "Class_7.h"
+#include "Class_7.1.h"
+#include "Class_7.2.h"
+
+
+namespace lab1 {
+    void rundew();
+}
+namespace lab2 {
+    void rundew();
+}
+namespace lab3 {
+    void rundew();
+}
+namespace lab4 {
+    void rundew();
+}
+namespace lab5 {
+    void rundew();
+}
+namespace lab6 {
+    void rundew();
+}
+namespace lab7 {
+    void rundew();
+}
 
 
 // Функция для установки цвета текста
@@ -13,6 +41,9 @@ void setColor(int textColor, int backgroundColor) {
     HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
     SetConsoleTextAttribute(hConsole, (backgroundColor << 4) | textColor);
 }
+
+
+
 
 int main() {
     setlocale(LC_ALL, "Rus");
