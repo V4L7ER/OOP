@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\savel\\source\\repos\\oop\\resources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\resources\\maincut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|solutionrelative:maincut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_3.1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB0698E-49FC-4980-9965-E0F04C38F348}|maincut.vcxproj|C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class_4.1.h",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.h",
+              "RelativeDocumentMoniker": "..\\header\\Class_4.1.h",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.h",
+              "RelativeToolTip": "..\\header\\Class_4.1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T01:33:33.657Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab_7.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_7.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_7.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_7.cpp",
+              "RelativeToolTip": "..\\header\\Lab_7.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:44:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab_6.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_6.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_6.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_6.cpp",
+              "RelativeToolTip": "..\\header\\Lab_6.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:43:57.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab_5.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_5.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_5.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_5.cpp",
+              "RelativeToolTip": "..\\header\\Lab_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:43:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab_4.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_4.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_4.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_4.cpp",
+              "RelativeToolTip": "..\\header\\Lab_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:43:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab_3.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_3.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_3.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_3.cpp",
+              "RelativeToolTip": "..\\header\\Lab_3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:43:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class_3.1.h",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_3.1.h",
+              "RelativeDocumentMoniker": "..\\header\\Class_3.1.h",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_3.1.h",
+              "RelativeToolTip": "..\\header\\Class_3.1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T01:43:18.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class_2.h",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_2.h",
+              "RelativeDocumentMoniker": "..\\header\\Class_2.h",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_2.h",
+              "RelativeToolTip": "..\\header\\Class_2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T01:43:10.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab_2.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_2.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_2.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_2.cpp",
+              "RelativeToolTip": "..\\header\\Lab_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:42:54.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class_4.h",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.h",
+              "RelativeDocumentMoniker": "..\\header\\Class_4.h",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.h",
+              "RelativeToolTip": "..\\header\\Class_4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T01:35:04.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class_4.1.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Class_4.1.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_4.1.cpp",
+              "RelativeToolTip": "..\\header\\Class_4.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:34:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class_1.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Class_1.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.cpp",
+              "RelativeToolTip": "..\\header\\Class_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:26:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class_1.h",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.h",
+              "RelativeDocumentMoniker": "..\\header\\Class_1.h",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Class_1.h",
+              "RelativeToolTip": "..\\header\\Class_1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T01:26:02.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab_1.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_1.cpp",
+              "RelativeDocumentMoniker": "..\\header\\Lab_1.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\header\\Lab_1.cpp",
+              "RelativeToolTip": "..\\header\\Lab_1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T01:25:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maincut.cpp",
+              "DocumentMoniker": "C:\\Users\\savel\\source\\repos\\oop\\resources\\maincut.cpp",
+              "RelativeDocumentMoniker": "maincut.cpp",
+              "ToolTip": "C:\\Users\\savel\\source\\repos\\oop\\resources\\maincut.cpp",
+              "RelativeToolTip": "maincut.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T23:15:02.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+﻿  Class_1.cpp
+  Class_2.cpp
+  Class_3.1.cpp
+  Class_3.cpp
+  Class_4.1.cpp
+  Class_4.cpp
+  Class_5.cpp
+  Class_6.1.cpp
+  Class_6.cpp
+  Class_7.1.cpp
+  Class_7.2.cpp
+  Class_7.cpp
+  Lab_1.cpp
+  Lab_2.cpp
+  Lab_3.cpp
+  Lab_4.cpp
+  Lab_5.cpp
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(9,11): warning C4305: инициализация: усечение из "double" в "float"
+  Lab_6.cpp
+  Lab_7.cpp
+  maincut.cpp
+C:\Users\savel\source\repos\oop\header\Lab_2.cpp(14,5): error C2084: функция "int main(void)" уже имеет текст реализации
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_1.cpp(32,5):
+      см. предыдущее определение "main"
+  
+C:\Users\savel\source\repos\oop\header\Class_4.h(4,7): error C2011: CMPLX: переопределение типа "class"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Class_1.h(2,7):
+       см. объявление "CMPLX"
+  
+C:\Users\savel\source\repos\oop\header\Class_4.1.h(3,24): error C2504: CMPLX: не определен базовый класс
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Class_4.1.h(8,11): error C3668: Graphic::Cmul: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Class_4.1.h(9,11): error C3668: Graphic::Add: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Class_4.1.h(5,39): error C2614: Graphic: недопустимая инициализация члена: "CMPLX" не является базовым классом или членом
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(8,15): error C2079: "cc" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(8,17): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_4.cpp(8,17):
+      Инициализатор содержит слишком много элементов
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(11,15): error C2079: "result1" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(11,29): error C2027: использование неопределенного типа "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Class_1.h(2,7):
+       см. объявление "CMPLX"
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(11,23): error C2027: использование неопределенного типа "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Class_1.h(2,7):
+       см. объявление "CMPLX"
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,15): error C2079: "result2" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,29): error C2664: "CMPLX Graphic::Add(const CMPLX &) const": невозможно преобразовать аргумент 1 из "int" в "const CMPLX &"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,33):
+      Причина: невозможно преобразовать "int" в "const CMPLX"
+      C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,33):
+      использование неопределенного типа "CMPLX"
+      C:\Users\savel\source\repos\oop\header\Class_1.h(2,7):
+       см. объявление "CMPLX"
+      C:\Users\savel\source\repos\oop\header\Class_4.1.h(9,11):
+       см. объявление "Graphic::Add"
+      C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,29):
+      при попытке сопоставить список аргументов "(int)"
+  
+C:\Users\savel\source\repos\oop\header\Lab_4.cpp(12,23): error C2027: использование неопределенного типа "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Class_1.h(2,7):
+       см. объявление "CMPLX"
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(9,11): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(10,9): error C2079: "c23" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(10,12): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_5.cpp(10,12):
+      Инициализатор содержит слишком много элементов
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(11,9): error C2079: "c54" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(11,12): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_5.cpp(11,12):
+      Инициализатор содержит слишком много элементов
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(12,9): error C2079: "resultF" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(13,9): error C2079: "resultD" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_5.cpp(19,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_7.cpp(13,15): error C2079: "cmplx" использует не имеющую определения структуру class "CMPLX"
+  (компиляция исходного файла "maincut.cpp")
+  
+C:\Users\savel\source\repos\oop\header\Lab_7.cpp(13,20): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+  (компиляция исходного файла "maincut.cpp")
+      C:\Users\savel\source\repos\oop\header\Lab_7.cpp(13,20):
+      Инициализатор содержит слишком много элементов
+  
+  Создание кода...
